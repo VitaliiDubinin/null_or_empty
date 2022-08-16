@@ -1,5 +1,6 @@
 # null_or_empty
 
+[![Build Status](https://travis-ci.com/username/projectname.svg?branch=master)](https://travis-ci.com/username/projectname)
 
 
 A Node.js package that checks, if a given string is null or empty.
