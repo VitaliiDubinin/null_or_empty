@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.com/username/projectname.svg?branch=master)](https://travis-ci.com/username/projectname)
 
+![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+
 
 A Node.js package that checks, if a given string is null or empty.
 
