@@ -4,6 +4,8 @@
 
 ![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
 
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
 
 A Node.js package that checks, if a given string is null or empty.
 
