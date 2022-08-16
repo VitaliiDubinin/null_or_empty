@@ -4,7 +4,7 @@
 
 ![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
 
-
+https://img.shields.io/maintenance/yes/2022
 
 A Node.js package that checks, if a given string is null or empty.
 
